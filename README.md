@@ -1,1 +1,1 @@
-# RustScraper
+Food Price Aggregator Project - WIP
