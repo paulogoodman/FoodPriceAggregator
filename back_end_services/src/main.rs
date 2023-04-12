@@ -1,7 +1,6 @@
-mod "lib";
+mod test;
 
 fn main() {
-    println!("Hello, world!");
-    testing
+    test::testing("Hello, world!");
 
 }
